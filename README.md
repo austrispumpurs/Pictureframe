@@ -1,2 +1,2 @@
 # Pictureframe
-Code and schematic of the picture frame dedicated to an awesome boss!
+Dedicated to an awesome boss – thank you for your leadership and support.
