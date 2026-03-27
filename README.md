@@ -1,5 +1,7 @@
 # Pictureframe
+==============================
 Dedicated to an awesome boss – thank you for your leadership and support.
+==============================
 Files:
 Photo_frame.cpp - Main programm
 PictrureFrame.pdf - Schematic
